@@ -1,0 +1,1 @@
+![CI](https://github.com/Vofanchik/clientKoaJS/actions/workflows/web.yml/badge.svg)
